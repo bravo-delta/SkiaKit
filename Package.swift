@@ -36,7 +36,7 @@ target = [
 	),
 	.binaryTarget (
 		name: "CSkiaSharpBinary",
-		path: "SkiaSharp.xcframework"
+		path: "CSkiaSharpBinary.xcframework"
 	),
 	.testTarget (
 		name: "SkiaKitTests",
